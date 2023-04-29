@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Martin</h1>
-<h3 align="center">A passionate backend developer and student at IInd year in Technical University of Sofia</h3>
+<h3 align="center">I am a passionate backend developer and a second-year student at the Technical University of Sofia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martuto31&label=Profile%20views&color=0e75b6&style=flat" alt="martuto31" /> </p>
 
